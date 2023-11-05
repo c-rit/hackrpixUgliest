@@ -1,3 +1,3 @@
 # hackrpixUgliest
 
-run for usage
+run for usage, messsage prints one letter at a time
